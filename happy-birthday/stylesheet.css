@@ -1281,7 +1281,7 @@ audio {
 	font-weight: bold;
 }
 
-.me{
+#me{
 	position:absolute;
 	display:none;
 	left:50%;
