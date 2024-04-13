@@ -1284,9 +1284,8 @@ audio {
 #me{
 	position:absolute;
 	display:none;
-	left:50%;
-	margin-left:-(150px);
-	width:300px; height:300px;
+	left:36.5%;
+	margin-top: 10%;
 }
 
 .btn-primary {
