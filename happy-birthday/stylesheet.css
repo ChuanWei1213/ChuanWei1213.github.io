@@ -1281,6 +1281,14 @@ audio {
 	font-weight: bold;
 }
 
+.me{
+	position:absolute;
+	display:none;
+	left:50%;
+	margin-left:-(150px);
+	width:300px; height:300px;
+}
+
 .btn-primary {
         border-color: #466baf;
         padding: 10px;
