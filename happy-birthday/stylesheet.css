@@ -1281,12 +1281,12 @@ audio {
 	font-weight: bold;
 }
 
-#me{
+/* #me{
 	position:absolute;
 	display:none;
 	left:36.5%;
 	margin-top: 10%;
-}
+} */
 
 .btn-primary {
         border-color: #466baf;
